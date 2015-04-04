@@ -1,0 +1,16 @@
+.git
+redaktion
+images/*.sib
+images/*.sla
+Kaiser_KostenloseSoftware_release_2014-09-24-mAnschnitt.pdf
+
+*.docx
+*.xlsx
+*.sib
+U1-U4.sla
+*.sla.*
+
+# Office Temp Files
+~$*
+# vim Temp Files
+*~
